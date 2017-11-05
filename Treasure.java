@@ -212,8 +212,7 @@ public class Treasure {
     }
     
     /*
-        Finds the value of a string that 
-	  represents the defense statistics of armor.
+        Finds the value of a string that represents the defense statistics of armor.
     */
     public int getDefenseValue() {
 	Random r = new Random();
